@@ -61,5 +61,28 @@ Visão simplificada e elegante para atletas e torcedores, acessível via QR Code
 4. Rode em desenvolvimento: `npm run dev`
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3d40543-ceab-4edf-8517-89bbb7fd6441" width="150"/>
+  <img src="https://github.com/user-attachments/assets/f39e5537-68f3-4658-be70-d608d4756108" width="150"/>
+  <img src="https://github.com/user-attachments/assets/f1f5d268-31f9-488b-972c-2fd737974870" width="150"/>
+  <img src="https://github.com/user-attachments/assets/2b5ad079-40d8-4a66-a4a6-1d9a52999b3a" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bbfb3d6-350b-42c7-8a77-b0e53a264bd8" width="150"/>
+  <img src="https://github.com/user-attachments/assets/21e11249-f4c2-45cc-ab80-f5c5f322a748" width="150"/>
+  <img src="https://github.com/user-attachments/assets/d9abcae3-1af9-415d-be56-fcc9a222488f" width="150"/>
+  <img src="https://github.com/user-attachments/assets/a574d52c-ab8d-4a86-8df5-17684427d60f" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b69d6f80-b51e-4f3b-a0ab-d717423f91a4" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1a449ce0-11d4-476a-94d5-27d951770a97" width="150"/>
+</p>
+
+---
+
 © 2026 **Módulo Web**. Fundado por Cláudio Soares.
 *Transformando ideias em produtos digitais de alta performance.*
+https://www.moduloweb.com.br/
