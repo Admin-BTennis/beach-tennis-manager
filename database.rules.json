@@ -1,0 +1,27 @@
+{
+    "rules": {
+        ".read": true,
+        ".write": "auth != null",
+        "tournaments": {
+            ".indexOn": [
+                "createdAt"
+            ]
+        },
+        "matches": {
+            ".indexOn": [
+                "tournamentId"
+            ]
+        },
+        "courts": {
+            ".indexOn": [
+                "tournamentId",
+                "pin"
+            ]
+        },
+        "results": {
+            ".indexOn": [
+                "tournamentId"
+            ]
+        }
+    }
+}
